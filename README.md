@@ -2,7 +2,8 @@
 Караваев ИГ, промежуточная аттестация 2
 
 Ссылка на colab: **https://colab.research.google.com/drive/1W9UnF0PvG1NwOGJcxAxbZ8IP5u_cnUad?usp=sharing**
-Ссика на GIT: **https://github.com/johank1977/Interim_attestation_2/tree/main**
+
+Ссылка на GIT: **https://github.com/johank1977/Interim_attestation_2/tree/main**
 
 ## Порядок действий
 1. Загружаем часть датасета - за 2023 год.
